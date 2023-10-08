@@ -1,0 +1,18 @@
+.detail{
+  margin-left: 1cm;
+  
+}
+.postlap{
+    font-size:0.7cm;
+    font-style:initial;
+    font-weight: 400;
+}
+.postlaptopbut{
+    border: none;
+    background-color:rgb(46, 48, 48);
+    color:whitesmoke;
+    font-family: monospace;
+    font-weight: 600;
+    height: 53.5px;
+    
+}

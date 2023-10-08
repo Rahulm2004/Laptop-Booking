@@ -1,0 +1,52 @@
+.signincard{
+    margin-top: 1.7cm;
+    width: 1000px;
+    height: 80vh;
+}
+.loginbutton{
+    border: none;
+    width: 250px;
+    height: 1cm;
+    border-radius: 18px;
+    background-color: #323231;
+    color: white;
+    position: relative;
+    top:1.6cm;
+    
+}
+.loginquote{
+    font-style:inherit;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:#3e4045;
+    font-size:25px;
+    font-weight:600;
+    position: relative;
+    top: 1.7cm;
+    
+}
+.logindetail{
+    position: relative;
+    top: 2.3cm;
+    left: 32px;
+}
+.linklogin{
+    position: relative;
+    top: 1.5cm;
+    
+    
+}
+.signin{
+    background-color: rgb(199, 204, 209);
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+}
+.formimage{
+    background-image: url('../assests/design.jpg');
+    width:500px;
+}
+.forgotpass{
+    position:relative;
+    top:1.8cm;
+    left: 3.6cm;
+}

@@ -1,0 +1,25 @@
+.Adloginbutton{
+    border: none;
+    width: 250px;
+    height: 1cm;
+    border-radius: 18px;
+    background-color: #323231;
+    color: white;
+    position: relative;
+  
+}
+.AdminloginBg{
+    background-image: url("../assests/design.jpg");
+    display: flex;
+    height: 100vh;
+}
+
+.AdDetail{
+    position: relative;
+    left: 7.1cm;
+}
+.AdminLogincard{
+    margin-left: 4.1cm;
+    margin-top: 1.8cm;
+    
+}
